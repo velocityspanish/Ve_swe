@@ -119,7 +119,37 @@
       "swedish": "Tro på dig själv, du kan.",
       "category": "Growth",
       "generated_at": "2026-03-21T17:00:09.276473"
+    },
+    {
+      "english": "One step, then another.",
+      "swedish": "Ett steg, sen ett.",
+      "category": "Success",
+      "generated_at": "2026-03-21T19:46:08.061004"
+    },
+    {
+      "english": "You're doing great, really.",
+      "swedish": "Du gör bra, verkligen.",
+      "category": "Success",
+      "generated_at": "2026-03-21T19:46:08.061013"
+    },
+    {
+      "english": "Keep pushing forward, always.",
+      "swedish": "Fortsätt framåt, alltid.",
+      "category": "Success",
+      "generated_at": "2026-03-21T19:46:08.061015"
+    },
+    {
+      "english": "Small wins, big progress.",
+      "swedish": "Små vinster, stora framsteg.",
+      "category": "Success",
+      "generated_at": "2026-03-21T19:46:08.061016"
+    },
+    {
+      "english": "Learning takes time, be patient.",
+      "swedish": "Lärande tar tid, var tålmodig.",
+      "category": "Success",
+      "generated_at": "2026-03-21T19:46:08.061017"
     }
   ],
-  "last_updated": "2026-03-21T17:00:09.276475"
+  "last_updated": "2026-03-21T19:46:08.061019"
 }
