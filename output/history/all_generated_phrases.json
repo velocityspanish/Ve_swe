@@ -389,7 +389,37 @@
       "swedish": "Stå rak, var tålig.",
       "category": "Strength",
       "generated_at": "2026-03-23T18:35:12.674507"
+    },
+    {
+      "english": "I regret what I did.",
+      "swedish": "Jag ångrar vad jag gjorde.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-23T20:58:31.171229"
+    },
+    {
+      "english": "Let's move past this.",
+      "swedish": "Låt oss gå vidare från detta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-23T20:58:31.171237"
+    },
+    {
+      "english": "I ask for your forgiveness.",
+      "swedish": "Jag ber om din förlåtelse.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-23T20:58:31.171238"
+    },
+    {
+      "english": "I didn't mean to hurt you.",
+      "swedish": "Jag menade inte att såra dig.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-23T20:58:31.171239"
+    },
+    {
+      "english": "Please, let it go.",
+      "swedish": "Snälla, släpp det.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-23T20:58:31.171240"
     }
   ],
-  "last_updated": "2026-03-23T18:35:12.674508"
+  "last_updated": "2026-03-23T20:58:31.171241"
 }
