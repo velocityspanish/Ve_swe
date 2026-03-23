@@ -329,7 +329,37 @@
       "swedish": "Bygg något, vackert och nytt.",
       "category": "Creativity",
       "generated_at": "2026-03-23T12:52:58.855523"
+    },
+    {
+      "english": "I'm sorry, please forgive me.",
+      "swedish": "Förlåt, snälla förlåt mig.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-23T16:14:03.538566"
+    },
+    {
+      "english": "I apologize, I was wrong.",
+      "swedish": "Jag ber om ursäkt, jag hade fel.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-23T16:14:03.538576"
+    },
+    {
+      "english": "Can you forgive my mistake?",
+      "swedish": "Kan du förlåta mitt misstag?",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-23T16:14:03.538577"
+    },
+    {
+      "english": "I hope you can forgive me.",
+      "swedish": "Jag hoppas du kan förlåta mig.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-23T16:14:03.538578"
+    },
+    {
+      "english": "Please accept my apology.",
+      "swedish": "Var snäll och ta emot min ursäkt.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-23T16:14:03.538580"
     }
   ],
-  "last_updated": "2026-03-23T12:52:58.855524"
+  "last_updated": "2026-03-23T16:14:03.538581"
 }
