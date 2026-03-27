@@ -164,17 +164,20 @@ IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before."""
             payload = {
                 "model": AI_MODEL,
                 "messages": [
-                    {"role": "system", "content": "You are a Polish teacher. Create short, natural phrases with pauses."},
+                    {"role": "system", "content": "You are a Swedish teacher. Create short, natural phrases with pauses."},
                     {"role": "user", "content": prompt}
                 ],
                 "temperature": 0.9
             }
 
+            print(f"[content] Attempt {attempt + 1}: Calling API...")
             response = requests.post(url, headers=headers, json=payload, timeout=60)
             response.raise_for_status()
 
             data = response.json()
             content = data["choices"][0]["message"]["content"].strip()
+            
+            print(f"[content] Raw API response: {content[:200]}...")
 
             # Extract JSON
             if "```json" in content:
@@ -183,21 +186,32 @@ IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before."""
                 content = content.split("```")[1].split("```")[0].strip()
 
             phrases = json.loads(content)
+            print(f"[content] Parsed {len(phrases)} phrases from JSON")
 
             # Filter out already-used phrases and ensure proper length
             unique_phrases = []
+            skipped_long = 0
+            skipped_used = 0
             for phrase in phrases:
                 # Skip if too long (over 15 words)
                 if len(phrase["english"].split()) > 15:
+                    skipped_long += 1
                     continue
-                if not is_phrase_used(phrase["english"]):
-                    unique_phrases.append(phrase)
+                if is_phrase_used(phrase["english"]):
+                    skipped_used += 1
+                    print(f"[content] Skipping duplicate: {phrase['english']}")
+                    continue
+                unique_phrases.append(phrase)
                 if len(unique_phrases) >= num_phrases:
                     break
+
+            print(f"[content] Got {len(unique_phrases)} valid phrases (skipped: {skipped_long} too long, {skipped_used} duplicates)")
 
             if len(unique_phrases) >= num_phrases:
                 add_phrases_to_history(unique_phrases[:num_phrases], category_english)
                 return unique_phrases[:num_phrases]
+            else:
+                print(f"[content] Only got {len(unique_phrases)} phrases, need {num_phrases}, trying again...")
 
         except Exception as e:
             print(f"[content] Attempt {attempt + 1} failed: {e}")
