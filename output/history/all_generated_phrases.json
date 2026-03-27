@@ -719,7 +719,37 @@
       "swedish": "Du, gör mig lycklig.",
       "category": "Love",
       "generated_at": "2026-03-26T19:42:08.831779"
+    },
+    {
+      "english": "Every lesson, a new skill.",
+      "swedish": "Varje lektion, en ny färdighet.",
+      "category": "Success",
+      "generated_at": "2026-03-27T06:03:09.641360"
+    },
+    {
+      "english": "You understand more now.",
+      "swedish": "Du förstår mer nu.",
+      "category": "Success",
+      "generated_at": "2026-03-27T06:03:09.641369"
+    },
+    {
+      "english": "Embrace the challenge, you can.",
+      "swedish": "Omfamna utmaningen, du kan.",
+      "category": "Success",
+      "generated_at": "2026-03-27T06:03:09.641370"
+    },
+    {
+      "english": "Practice makes perfect, remember.",
+      "swedish": "Övning ger färdighet, minns.",
+      "category": "Success",
+      "generated_at": "2026-03-27T06:03:09.641371"
+    },
+    {
+      "english": "Your Swedish, it's improving.",
+      "swedish": "Din svenska, den förbättras.",
+      "category": "Success",
+      "generated_at": "2026-03-27T06:03:09.641372"
     }
   ],
-  "last_updated": "2026-03-26T19:42:08.831781"
+  "last_updated": "2026-03-27T06:03:09.641374"
 }
