@@ -779,7 +779,37 @@
       "swedish": "Vänta på det, det kommer.",
       "category": "Patience",
       "generated_at": "2026-03-27T12:50:10.899357"
+    },
+    {
+      "english": "Breathe in, breathe out.",
+      "swedish": "Andas in, andas ut.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-27T15:39:01.759442"
+    },
+    {
+      "english": "Feel the ground, beneath you.",
+      "swedish": "Känn marken, under dig.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-27T15:39:01.759449"
+    },
+    {
+      "english": "This moment, is enough.",
+      "swedish": "Detta ögonblick, räcker.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-27T15:39:01.759450"
+    },
+    {
+      "english": "Listen closely, to your breath.",
+      "swedish": "Lyssna noga, till din andning.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-27T15:39:01.759451"
+    },
+    {
+      "english": "Let thoughts, drift away.",
+      "swedish": "Låt tankar, driva bort.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-27T15:39:01.759453"
     }
   ],
-  "last_updated": "2026-03-27T12:50:10.899359"
+  "last_updated": "2026-03-27T15:39:01.759454"
 }
