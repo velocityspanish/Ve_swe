@@ -749,7 +749,37 @@
       "swedish": "Din svenska, den förbättras.",
       "category": "Success",
       "generated_at": "2026-03-27T06:03:09.641372"
+    },
+    {
+      "english": "Little by little, wins the race.",
+      "swedish": "Lite i taget, vinner loppet.",
+      "category": "Patience",
+      "generated_at": "2026-03-27T12:50:10.899343"
+    },
+    {
+      "english": "Slow and steady, wins the prize.",
+      "swedish": "Sakta men säkert, vinner priset.",
+      "category": "Patience",
+      "generated_at": "2026-03-27T12:50:10.899353"
+    },
+    {
+      "english": "Rome wasn't built, in a day.",
+      "swedish": "Rom byggdes, inte på en dag.",
+      "category": "Patience",
+      "generated_at": "2026-03-27T12:50:10.899354"
+    },
+    {
+      "english": "Patience, is a virtue.",
+      "swedish": "Tålamod, är en dygd.",
+      "category": "Patience",
+      "generated_at": "2026-03-27T12:50:10.899355"
+    },
+    {
+      "english": "Wait for it, it will come.",
+      "swedish": "Vänta på det, det kommer.",
+      "category": "Patience",
+      "generated_at": "2026-03-27T12:50:10.899357"
     }
   ],
-  "last_updated": "2026-03-27T06:03:09.641374"
+  "last_updated": "2026-03-27T12:50:10.899359"
 }
