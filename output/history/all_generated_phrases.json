@@ -1109,7 +1109,37 @@
       "swedish": "Håll hoppet nära, vän.",
       "category": "Friendship",
       "generated_at": "2026-03-28T19:55:33.732162"
+    },
+    {
+      "english": "Trust your voice, then speak.",
+      "swedish": "Lita på din röst, säg.",
+      "category": "Confidence",
+      "generated_at": "2026-03-28T23:01:23.936612"
+    },
+    {
+      "english": "Learn one word, share freely.",
+      "swedish": "Lär ett ord, dela öppet.",
+      "category": "Confidence",
+      "generated_at": "2026-03-28T23:01:23.936622"
+    },
+    {
+      "english": "Your journey, your path, go.",
+      "swedish": "Din resa, din stig, gå.",
+      "category": "Confidence",
+      "generated_at": "2026-03-28T23:01:23.936624"
+    },
+    {
+      "english": "Each 'hej' builds connection.",
+      "swedish": "Var 'hej' bygger band.",
+      "category": "Confidence",
+      "generated_at": "2026-03-28T23:01:23.936625"
+    },
+    {
+      "english": "Try, and you start shining.",
+      "swedish": "Försök, och du blir ljus.",
+      "category": "Confidence",
+      "generated_at": "2026-03-28T23:01:23.936626"
     }
   ],
-  "last_updated": "2026-03-28T19:55:33.732164"
+  "last_updated": "2026-03-28T23:01:23.936627"
 }
