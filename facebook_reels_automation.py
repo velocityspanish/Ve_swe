@@ -312,9 +312,56 @@ CRITICAL: Every phrase MUST be completely new, unique, and ORIGINAL."""
             print(f"[content] Attempt {attempt + 1} failed: {e}")
 
     # NO FALLBACK - raise error if we can't get unique phrases
+    # Try one more time with simpler prompt as last resort
+    try:
+        import requests
+        url = "https://gen.pollinations.ai/v1/chat/completions"
+        headers = {
+            "Authorization": f"Bearer {POLLINATIONS_API_KEY}",
+            "Content-Type": "application/json"
+        }
+        
+        # Simpler prompt for last resort
+        last_resort_prompt = f"""Generate exactly 5 short {category_english} phrases in English and Swedish.
+Make them simple, unique, and different from common clichés.
+Return as JSON: [{{"english": "...", "swedish": "...", "pronunciation": "..."}}]"""
+
+        payload = {
+            "model": AI_MODEL,
+            "messages": [{"role": "user", "content": last_resort_prompt}],
+            "temperature": 2.0  # Maximum randomness
+        }
+        
+        print(f"[content] Last resort attempt with temperature 2.0...")
+        response = requests.post(url, headers=headers, json=payload, timeout=30)
+        response.raise_for_status()
+        
+        data = response.json()
+        content = data["choices"][0]["message"]["content"].strip()
+        
+        if "```json" in content:
+            content = content.split("```json")[1].split("```")[0].strip()
+        elif "```" in content:
+            content = content.split("```")[1].split("```")[0].strip()
+        
+        phrases = json.loads(content)
+        
+        # Accept ANY phrases that aren't in history
+        unique_phrases = [p for p in phrases if not is_phrase_used(p.get("english", ""))]
+        
+        if unique_phrases:
+            add_phrases_to_history(unique_phrases[:num_phrases], category_english)
+            for p in unique_phrases[:num_phrases]:
+                add_phrase_to_session(p["english"])
+            print(f"[content] Got {len(unique_phrases[:num_phrases])} phrases from last resort!")
+            return unique_phrases[:num_phrases]
+    except Exception as e:
+        print(f"[content] Last resort also failed: {e}")
+    
+    # If ALL attempts fail, return empty list (will skip this category)
     raise RuntimeError(
         f"CRITICAL: Could not generate {num_phrases} unique phrases for '{category_english}' "
-        f"after {max_attempts} attempts. History may be exhausted or API issue."
+        f"after all attempts. Try again later or check API key."
     )
 
 
