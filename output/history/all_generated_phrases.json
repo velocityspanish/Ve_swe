@@ -1769,7 +1769,37 @@
       "swedish": "Nya tankar vecklas ut.",
       "category": "Confidence",
       "generated_at": "2026-04-19T22:42:20.017666"
+    },
+    {
+      "english": "Screen time, mindful breaks.",
+      "swedish": "Skärmtid, lagomir paus.",
+      "category": "Balance",
+      "generated_at": "2026-04-20T04:15:09.011966"
+    },
+    {
+      "english": "Big goals, small steps now.",
+      "swedish": "Många mål, små steg nu.",
+      "category": "Balance",
+      "generated_at": "2026-04-20T04:15:09.011978"
+    },
+    {
+      "english": "Fast world, slow ideas.",
+      "swedish": "Snabb värld, långsamma tankar.",
+      "category": "Balance",
+      "generated_at": "2026-04-20T04:15:09.011979"
+    },
+    {
+      "english": "Busy life, quiet corners.",
+      "swedish": "Travla liv, tysta utrymmen.",
+      "category": "Balance",
+      "generated_at": "2026-04-20T04:15:09.011981"
+    },
+    {
+      "english": "Connect online, stay present.",
+      "swedish": "Ring upp, lev nu.",
+      "category": "Balance",
+      "generated_at": "2026-04-20T04:15:09.011982"
     }
   ],
-  "last_updated": "2026-04-19T22:42:20.017667"
+  "last_updated": "2026-04-20T04:15:09.011983"
 }
