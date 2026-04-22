@@ -2129,7 +2129,37 @@
       "swedish": "Hör rytmen, käns orden.",
       "category": "Success",
       "generated_at": "2026-04-22T14:49:03.143055"
+    },
+    {
+      "english": "Speak, you hear.",
+      "swedish": "Tala, du hör.",
+      "category": "Purpose",
+      "generated_at": "2026-04-22T17:00:23.066355"
+    },
+    {
+      "english": "Understand, a bit.",
+      "swedish": "Förstå, lite.",
+      "category": "Purpose",
+      "generated_at": "2026-04-22T17:00:23.066365"
+    },
+    {
+      "english": "Words form, today.",
+      "swedish": "Ord formas, idag.",
+      "category": "Purpose",
+      "generated_at": "2026-04-22T17:00:23.066367"
+    },
+    {
+      "english": "Listen, then know.",
+      "swedish": "Lyssna, sen vet.",
+      "category": "Purpose",
+      "generated_at": "2026-04-22T17:00:23.066368"
+    },
+    {
+      "english": "Each sound, grows.",
+      "swedish": "Varje ljud, växer.",
+      "category": "Purpose",
+      "generated_at": "2026-04-22T17:00:23.066369"
     }
   ],
-  "last_updated": "2026-04-22T14:49:03.143057"
+  "last_updated": "2026-04-22T17:00:23.066371"
 }
