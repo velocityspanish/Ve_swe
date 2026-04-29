@@ -3089,7 +3089,37 @@
       "swedish": "Mod finner, öppnar dörr.",
       "category": "Courage",
       "generated_at": "2026-04-28T23:00:49.290799"
+    },
+    {
+      "english": "Speak now, unlock Swede.",
+      "swedish": "Tala nu, lås upp Sv .",
+      "category": "Joy",
+      "generated_at": "2026-04-29T04:23:57.231534"
+    },
+    {
+      "english": "Try one Swedish word.",
+      "swedish": "Pröva ett svenskt ord.",
+      "category": "Joy",
+      "generated_at": "2026-04-29T04:23:57.231543"
+    },
+    {
+      "english": "Your effort, builds fluency.",
+      "swedish": "Din möda, bygger flyt.",
+      "category": "Joy",
+      "generated_at": "2026-04-29T04:23:57.231545"
+    },
+    {
+      "english": "Today’s effort, tomorrow’s song.",
+      "swedish": "Dagens slit, morgondagens sång.",
+      "category": "Joy",
+      "generated_at": "2026-04-29T04:23:57.231546"
+    },
+    {
+      "english": "Dare to speak, truly live.",
+      "swedish": "Våga tala, lev sant.",
+      "category": "Joy",
+      "generated_at": "2026-04-29T04:23:57.231547"
     }
   ],
-  "last_updated": "2026-04-28T23:00:49.290801"
+  "last_updated": "2026-04-29T04:23:57.231549"
 }
