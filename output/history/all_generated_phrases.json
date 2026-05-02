@@ -3479,7 +3479,37 @@
       "swedish": "Väx inifrån, starkt.",
       "category": "Strength",
       "generated_at": "2026-05-02T16:46:21.940438"
+    },
+    {
+      "english": "Silence doubt, speak truth.",
+      "swedish": "Tysta tvivel, säg sanning.",
+      "category": "Courage",
+      "generated_at": "2026-05-02T19:51:02.272853"
+    },
+    {
+      "english": "Unseen paths, choose.",
+      "swedish": "Oseda vägar, välj.",
+      "category": "Courage",
+      "generated_at": "2026-05-02T19:51:02.272863"
+    },
+    {
+      "english": "Bold ideas, set free.",
+      "swedish": "Modiga idéer, släpp.",
+      "category": "Courage",
+      "generated_at": "2026-05-02T19:51:02.272865"
+    },
+    {
+      "english": "Inner whisper, follow.",
+      "swedish": "Inre viskning, följ.",
+      "category": "Courage",
+      "generated_at": "2026-05-02T19:51:02.272866"
+    },
+    {
+      "english": "Fear less, action rise.",
+      "swedish": "Frukta mindre, handling stig.",
+      "category": "Courage",
+      "generated_at": "2026-05-02T19:51:02.272867"
     }
   ],
-  "last_updated": "2026-05-02T16:46:21.940440"
+  "last_updated": "2026-05-02T19:51:02.272869"
 }
