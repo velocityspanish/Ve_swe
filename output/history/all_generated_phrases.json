@@ -3629,7 +3629,37 @@
       "swedish": "Er röst vaknar, sakta.",
       "category": "Motivation",
       "generated_at": "2026-05-03T16:51:05.735431"
+    },
+    {
+      "english": "Screen still loading, relax your eyes.",
+      "swedish": "Skärmen laddar, blunda lite.",
+      "category": "Patience",
+      "generated_at": "2026-05-03T19:51:08.442252"
+    },
+    {
+      "english": "Traffic slow, just sing along.",
+      "swedish": "Trafiken seg, sjung melodi.",
+      "category": "Patience",
+      "generated_at": "2026-05-03T19:51:08.442262"
+    },
+    {
+      "english": "That project lags, find calm peace.",
+      "swedish": "Projekt seger, finn lugn i ro.",
+      "category": "Patience",
+      "generated_at": "2026-05-03T19:51:08.442263"
+    },
+    {
+      "english": "Waiting for news, accept the pause.",
+      "swedish": "Väntar på svar, ta pausen nu.",
+      "category": "Patience",
+      "generated_at": "2026-05-03T19:51:08.442265"
+    },
+    {
+      "english": "New recipe, try, taste, adjust.",
+      "swedish": "Recept nytt, försök, smaka.** **justera.",
+      "category": "Patience",
+      "generated_at": "2026-05-03T19:51:08.442266"
     }
   ],
-  "last_updated": "2026-05-03T16:51:05.735433"
+  "last_updated": "2026-05-03T19:51:08.442268"
 }
