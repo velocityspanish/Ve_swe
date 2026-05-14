@@ -5279,7 +5279,37 @@
       "swedish": "Sanna norr, finn strax.",
       "category": "Friendship",
       "generated_at": "2026-05-14T20:25:06.404722"
+    },
+    {
+      "english": "Brave heart, whispers yes.",
+      "swedish": "Modigt hjärta, viskar ja.",
+      "category": "Strength",
+      "generated_at": "2026-05-14T23:02:26.619620"
+    },
+    {
+      "english": "Quiet fire, warms soul.",
+      "swedish": "Tyst eld, värmer själ.",
+      "category": "Strength",
+      "generated_at": "2026-05-14T23:02:26.619629"
+    },
+    {
+      "english": "Resilient spirit, bends low.",
+      "swedish": "Stark själ, böjs lugnt.",
+      "category": "Strength",
+      "generated_at": "2026-05-14T23:02:26.619630"
+    },
+    {
+      "english": "Steady purpose, plants bloom.",
+      "swedish": "Lugnärv, planterar blommor.",
+      "category": "Strength",
+      "generated_at": "2026-05-14T23:02:26.619632"
+    },
+    {
+      "english": "Kindness anchors, storms pass.",
+      "swedish": "Godhet ankrades, stormar flyr.",
+      "category": "Strength",
+      "generated_at": "2026-05-14T23:02:26.619633"
     }
   ],
-  "last_updated": "2026-05-14T20:25:06.404724"
+  "last_updated": "2026-05-14T23:02:26.619634"
 }
