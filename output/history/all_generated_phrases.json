@@ -6749,7 +6749,37 @@
       "swedish": "Andas djupt, före hopp.",
       "category": "Patience",
       "generated_at": "2026-05-27T16:40:22.781191"
+    },
+    {
+      "english": "Act now, learn more.",
+      "swedish": "Agera nu, lär mer.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-27T18:26:51.648475"
+    },
+    {
+      "english": "Curiosity sparks, always.",
+      "swedish": "Nyfikenheten tänder, alltid.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-27T18:26:51.648485"
+    },
+    {
+      "english": "Create your own path.",
+      "swedish": "Skapa din egen stig.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-27T18:26:51.648487"
+    },
+    {
+      "english": "Silence reveals, truth softly.",
+      "swedish": "Tystnad avslöjar, sanning mjukt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-27T18:26:51.648488"
+    },
+    {
+      "english": "Connect deeply, speak mindfully.",
+      "swedish": "Koppla djupt, tala tänksamt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-27T18:26:51.648489"
     }
   ],
-  "last_updated": "2026-05-27T16:40:22.781193"
+  "last_updated": "2026-05-27T18:26:51.648491"
 }
