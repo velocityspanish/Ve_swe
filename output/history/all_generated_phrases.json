@@ -7949,7 +7949,37 @@
       "swedish": "Lyssna noga, finn dig själv.",
       "category": "Happiness",
       "generated_at": "2026-06-04T16:21:45.280838"
+    },
+    {
+      "english": "Each word, makes sense.",
+      "swedish": "Vart ord, ger mening.",
+      "category": "Confidence",
+      "generated_at": "2026-06-04T18:14:24.554280"
+    },
+    {
+      "english": "You grasp it, well.",
+      "swedish": "Du fattar det, bra.",
+      "category": "Confidence",
+      "generated_at": "2026-06-04T18:14:24.554291"
+    },
+    {
+      "english": "New ideas, connect now.",
+      "swedish": "Nya idéer, kopplas nu.",
+      "category": "Confidence",
+      "generated_at": "2026-06-04T18:14:24.554293"
+    },
+    {
+      "english": "Practice builds, skill.",
+      "swedish": "Övning bygger, talang.",
+      "category": "Confidence",
+      "generated_at": "2026-06-04T18:14:24.554294"
+    },
+    {
+      "english": "Listen hard, understand more.",
+      "swedish": "Lyssna noga, fatta mer.",
+      "category": "Confidence",
+      "generated_at": "2026-06-04T18:14:24.554295"
     }
   ],
-  "last_updated": "2026-06-04T16:21:45.280839"
+  "last_updated": "2026-06-04T18:14:24.554297"
 }
