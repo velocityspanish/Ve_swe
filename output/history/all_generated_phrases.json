@@ -8039,7 +8039,37 @@
       "swedish": "Lyssna lågt, hör klart.",
       "category": "Happiness",
       "generated_at": "2026-06-04T23:13:41.829249"
+    },
+    {
+      "english": "Seedling voice, will find sun.",
+      "swedish": "Groende röst, når sol.",
+      "category": "Growth",
+      "generated_at": "2026-06-05T05:06:20.203479"
+    },
+    {
+      "english": "Branching words, reach the sky.",
+      "swedish": "Grenvande ord, når himmel.",
+      "category": "Growth",
+      "generated_at": "2026-06-05T05:06:20.203493"
+    },
+    {
+      "english": "River current, shapes smooth stones.",
+      "swedish": "Flodström, formar blank sten.",
+      "category": "Growth",
+      "generated_at": "2026-06-05T05:06:20.203494"
+    },
+    {
+      "english": "Mountain climb, feels rewarding.",
+      "swedish": "Bergets stigning, känns gott.",
+      "category": "Growth",
+      "generated_at": "2026-06-05T05:06:20.203495"
+    },
+    {
+      "english": "Forest quiet, breathes new sounds.",
+      "swedish": "Skogens tystnad, andas nytt.",
+      "category": "Growth",
+      "generated_at": "2026-06-05T05:06:20.203497"
     }
   ],
-  "last_updated": "2026-06-04T23:13:41.829251"
+  "last_updated": "2026-06-05T05:06:20.203498"
 }
