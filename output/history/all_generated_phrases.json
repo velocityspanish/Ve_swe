@@ -9029,7 +9029,37 @@
       "swedish": "Lyft din egen ande.",
       "category": "Strength",
       "generated_at": "2026-06-11T18:46:35.879126"
+    },
+    {
+      "english": "A sentence finished, yes!",
+      "swedish": "Meningsklar nu, hej!",
+      "category": "Courage",
+      "generated_at": "2026-06-11T21:15:20.339786"
+    },
+    {
+      "english": "Sounds connect, good!",
+      "swedish": "Ljuden knyter an, bra!",
+      "category": "Courage",
+      "generated_at": "2026-06-11T21:15:20.339796"
+    },
+    {
+      "english": "A question asked, boldness!",
+      "swedish": "Fråga ställd inåt, mod!",
+      "category": "Courage",
+      "generated_at": "2026-06-11T21:15:20.339797"
+    },
+    {
+      "english": "Trying another way, smart.",
+      "swedish": "Ny chans, klokt försök.",
+      "category": "Courage",
+      "generated_at": "2026-06-11T21:15:20.339799"
+    },
+    {
+      "english": "Mistakes melt easy.",
+      "swedish": "Misstag smälter lätt.",
+      "category": "Courage",
+      "generated_at": "2026-06-11T21:15:20.339800"
     }
   ],
-  "last_updated": "2026-06-11T18:46:35.879128"
+  "last_updated": "2026-06-11T21:15:20.339801"
 }
