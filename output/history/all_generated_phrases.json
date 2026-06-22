@@ -10619,7 +10619,37 @@
       "swedish": "Vars samhet, djupet bär.",
       "category": "Purpose",
       "generated_at": "2026-06-22T06:15:34.761610"
+    },
+    {
+      "english": "Find your north star.",
+      "swedish": "Hitta din polstjärna.",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T17:41:31.691097"
+    },
+    {
+      "english": "Inner strength, quietly grows.",
+      "swedish": "Inre styrka, växer tyst.",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T17:41:31.691108"
+    },
+    {
+      "english": "Each breath, a new beginning.",
+      "swedish": "Varje andetag, ny start.",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T17:41:31.691110"
+    },
+    {
+      "english": "See the light, within you.",
+      "swedish": "Se ljuset, inre ditt.",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T17:41:31.691111"
+    },
+    {
+      "english": "Whispers guide, your path.",
+      "swedish": "Viskningar leder, din väg.",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T17:41:31.691112"
     }
   ],
-  "last_updated": "2026-06-22T06:15:34.761612"
+  "last_updated": "2026-06-22T17:41:31.691114"
 }
