@@ -11009,7 +11009,37 @@
       "swedish": "Dagens vinning, känns lätt.",
       "category": "Confidence",
       "generated_at": "2026-06-24T20:30:25.609179"
+    },
+    {
+      "english": "Be kind on difficult days.",
+      "swedish": "Var snäll, när det är tufft.",
+      "category": "Kindness",
+      "generated_at": "2026-06-24T23:10:08.160656"
+    },
+    {
+      "english": "Your smile, makes things bright.",
+      "swedish": "Ditt leende, ljusar upp mycket.",
+      "category": "Kindness",
+      "generated_at": "2026-06-24T23:10:08.160666"
+    },
+    {
+      "english": "Helping feels great, try it.",
+      "swedish": "Att hjälpa, känns så bra.",
+      "category": "Kindness",
+      "generated_at": "2026-06-24T23:10:08.160668"
+    },
+    {
+      "english": "Listen gently, always hear.",
+      "swedish": "Lyssna mjukt, hör mer.",
+      "category": "Kindness",
+      "generated_at": "2026-06-24T23:10:08.160669"
+    },
+    {
+      "english": "A warm word, helps healing.",
+      "swedish": "Ett varmt ord, helar snabbt.",
+      "category": "Kindness",
+      "generated_at": "2026-06-24T23:10:08.160670"
     }
   ],
-  "last_updated": "2026-06-24T20:30:25.609180"
+  "last_updated": "2026-06-24T23:10:08.160672"
 }
