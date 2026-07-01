@@ -11969,7 +11969,37 @@
       "swedish": "En tyst lärdom sker.",
       "category": "Perseverance",
       "generated_at": "2026-07-01T05:13:42.507240"
+    },
+    {
+      "english": "Sentence clicked, yay!",
+      "swedish": "Frasen satt, jippi!",
+      "category": "Success",
+      "generated_at": "2026-07-01T15:46:14.568660"
+    },
+    {
+      "english": "Sound found, good job!",
+      "swedish": "Ljudet är ditt, bra där!",
+      "category": "Success",
+      "generated_at": "2026-07-01T15:46:14.568669"
+    },
+    {
+      "english": "Comprehension dawns quickly.",
+      "swedish": "Förstod direkt, nästan.",
+      "category": "Success",
+      "generated_at": "2026-07-01T15:46:14.568671"
+    },
+    {
+      "english": "Yes, another word!",
+      "swedish": "Jepp, ett plus till!",
+      "category": "Success",
+      "generated_at": "2026-07-01T15:46:14.568672"
+    },
+    {
+      "english": "Corrected myself, bravo!",
+      "swedish": "Rättade mig, toppen!",
+      "category": "Success",
+      "generated_at": "2026-07-01T15:46:14.568673"
     }
   ],
-  "last_updated": "2026-07-01T05:13:42.507242"
+  "last_updated": "2026-07-01T15:46:14.568675"
 }
