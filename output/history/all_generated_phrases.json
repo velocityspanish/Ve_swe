@@ -12329,7 +12329,37 @@
       "swedish": "Din takt, formar ord.",
       "category": "Strength",
       "generated_at": "2026-07-03T17:24:59.533984"
+    },
+    {
+      "english": "Struggle. Then ascend.",
+      "swedish": "Kämpa. Stig sen upp.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-03T20:11:21.275494"
+    },
+    {
+      "english": "Challenge the slope, reach.",
+      "swedish": "Utmana lutning, nå fram.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-03T20:11:21.275503"
+    },
+    {
+      "english": "Fail forward, still move.",
+      "swedish": "Misslyckas framåt. Rör än.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-03T20:11:21.275505"
+    },
+    {
+      "english": "Learn from falls. Repeat.",
+      "swedish": "Lär av fall. Upprepa.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-03T20:11:21.275506"
+    },
+    {
+      "english": "Endurance, carves paths.",
+      "swedish": "Uthållighet, formar spår.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-03T20:11:21.275507"
     }
   ],
-  "last_updated": "2026-07-03T17:24:59.533986"
+  "last_updated": "2026-07-03T20:11:21.275509"
 }
