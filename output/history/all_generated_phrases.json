@@ -12299,7 +12299,37 @@
       "swedish": "Hör dig själv, tryggt.",
       "category": "Confidence",
       "generated_at": "2026-07-03T15:13:53.962081"
+    },
+    {
+      "english": "Unmute your sound.",
+      "swedish": "Avlås ditt ljud.",
+      "category": "Strength",
+      "generated_at": "2026-07-03T17:24:59.533970"
+    },
+    {
+      "english": "Speak your truth now.",
+      "swedish": "Säg din sanning nu.",
+      "category": "Strength",
+      "generated_at": "2026-07-03T17:24:59.533980"
+    },
+    {
+      "english": "Inner voice, takes flight.",
+      "swedish": "Inre röst, lätt flykt.",
+      "category": "Strength",
+      "generated_at": "2026-07-03T17:24:59.533982"
+    },
+    {
+      "english": "Dare to construct sound.",
+      "swedish": "Våga bygga ljud.",
+      "category": "Strength",
+      "generated_at": "2026-07-03T17:24:59.533983"
+    },
+    {
+      "english": "Your own rhythm, shapes word.",
+      "swedish": "Din takt, formar ord.",
+      "category": "Strength",
+      "generated_at": "2026-07-03T17:24:59.533984"
     }
   ],
-  "last_updated": "2026-07-03T15:13:53.962082"
+  "last_updated": "2026-07-03T17:24:59.533986"
 }
