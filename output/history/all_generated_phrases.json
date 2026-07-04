@@ -12419,7 +12419,37 @@
       "swedish": "Vokalljud, framtid ljus.",
       "category": "Motivation",
       "generated_at": "2026-07-04T04:25:51.449297"
+    },
+    {
+      "english": "Speak out, the words matter.",
+      "swedish": "Säg till, orden räknas.",
+      "category": "Confidence",
+      "generated_at": "2026-07-04T14:40:51.341475"
+    },
+    {
+      "english": "Your voice, carries much weight.",
+      "swedish": "Din röst, bär mycket vikt.",
+      "category": "Confidence",
+      "generated_at": "2026-07-04T14:40:51.341486"
+    },
+    {
+      "english": "Try a sentence, make it real.",
+      "swedish": "Försök mening, gör verkligt.",
+      "category": "Confidence",
+      "generated_at": "2026-07-04T14:40:51.341488"
+    },
+    {
+      "english": "Dare to pronounce, sound true.",
+      "swedish": "Våga uttala, klang sant.",
+      "category": "Confidence",
+      "generated_at": "2026-07-04T14:40:51.341489"
+    },
+    {
+      "english": "Fluent now, move swiftly.",
+      "swedish": "Flytande nu, färdas snabbt.",
+      "category": "Confidence",
+      "generated_at": "2026-07-04T14:40:51.341490"
     }
   ],
-  "last_updated": "2026-07-04T04:25:51.449298"
+  "last_updated": "2026-07-04T14:40:51.341492"
 }
