@@ -12539,7 +12539,37 @@
       "swedish": "Färdigt tal, ekar långt.",
       "category": "Confidence",
       "generated_at": "2026-07-04T23:02:18.239888"
+    },
+    {
+      "english": "Tiny triumph, right now.",
+      "swedish": "Liten seger, just nu.",
+      "category": "Kindness",
+      "generated_at": "2026-07-05T04:47:00.498291"
+    },
+    {
+      "english": "One word, makes it happen.",
+      "swedish": "Ett ord, får det att ske.",
+      "category": "Kindness",
+      "generated_at": "2026-07-05T04:47:00.498301"
+    },
+    {
+      "english": "Bravo, you started well.",
+      "swedish": "Bravo, du fick fart.",
+      "category": "Kindness",
+      "generated_at": "2026-07-05T04:47:00.498303"
+    },
+    {
+      "english": "Hear one, then all.",
+      "swedish": "Hör en, sen alla.",
+      "category": "Kindness",
+      "generated_at": "2026-07-05T04:47:00.498304"
+    },
+    {
+      "english": "Sentence blooms, very softly.",
+      "swedish": "Meningen blommar, väldigt mjukt.",
+      "category": "Kindness",
+      "generated_at": "2026-07-05T04:47:00.498305"
     }
   ],
-  "last_updated": "2026-07-04T23:02:18.239890"
+  "last_updated": "2026-07-05T04:47:00.498307"
 }
