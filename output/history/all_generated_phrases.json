@@ -14639,7 +14639,37 @@
       "swedish": "Känn värme, sommarbris.",
       "category": "Joy",
       "generated_at": "2026-07-22T15:07:54.724565"
+    },
+    {
+      "english": "Speak now, fluent now.",
+      "swedish": "Tala nu. Flytande nu.",
+      "category": "Strength",
+      "generated_at": "2026-07-22T17:17:40.126412"
+    },
+    {
+      "english": "Learn faster, progress now.",
+      "swedish": "Lär dig snabbare. Fortskrid nu.",
+      "category": "Strength",
+      "generated_at": "2026-07-22T17:17:40.126423"
+    },
+    {
+      "english": "Understand clearly, build mind.",
+      "swedish": "Förstå klart. Bygg mentalitet.",
+      "category": "Strength",
+      "generated_at": "2026-07-22T17:17:40.126425"
+    },
+    {
+      "english": "Master words, own voice.",
+      "swedish": "Bemästra ord. Äg rösten.",
+      "category": "Strength",
+      "generated_at": "2026-07-22T17:17:40.126426"
+    },
+    {
+      "english": "Write powerfully, express freely.",
+      "swedish": "Skriv starkt. Uttryck dig fritt.",
+      "category": "Strength",
+      "generated_at": "2026-07-22T17:17:40.126427"
     }
   ],
-  "last_updated": "2026-07-22T15:07:54.724567"
+  "last_updated": "2026-07-22T17:17:40.126429"
 }
