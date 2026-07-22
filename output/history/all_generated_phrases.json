@@ -14669,7 +14669,37 @@
       "swedish": "Skriv starkt. Uttryck dig fritt.",
       "category": "Strength",
       "generated_at": "2026-07-22T17:17:40.126427"
+    },
+    {
+      "english": "Speak Svenska now, feel progress.",
+      "swedish": "Tala svenska nu, känn framsteg.",
+      "category": "Purpose",
+      "generated_at": "2026-07-22T20:09:10.732070"
+    },
+    {
+      "english": "Learn by doing, build fluency.",
+      "swedish": "Lär genom att göra, bygg flyt.",
+      "category": "Purpose",
+      "generated_at": "2026-07-22T20:09:10.732080"
+    },
+    {
+      "english": "Your voice matters, say it.",
+      "swedish": "Din röst räknas, säg det.",
+      "category": "Purpose",
+      "generated_at": "2026-07-22T20:09:10.732082"
+    },
+    {
+      "english": "Challenge old ways, start bold.",
+      "swedish": "Utmana gamla rutin, börja djärvt.",
+      "category": "Purpose",
+      "generated_at": "2026-07-22T20:09:10.732083"
+    },
+    {
+      "english": "Discover Swedish, open worlds.",
+      "swedish": "Upptäck svenska, öppna världar.",
+      "category": "Purpose",
+      "generated_at": "2026-07-22T20:09:10.732084"
     }
   ],
-  "last_updated": "2026-07-22T17:17:40.126429"
+  "last_updated": "2026-07-22T20:09:10.732086"
 }
