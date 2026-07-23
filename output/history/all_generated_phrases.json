@@ -14759,7 +14759,37 @@
       "swedish": "Övning lönar, storhet.",
       "category": "Strength",
       "generated_at": "2026-07-23T04:00:59.790365"
+    },
+    {
+      "english": "You speak Swede, good!",
+      "swedish": "Du talar svenska, bra!",
+      "category": "Confidence",
+      "generated_at": "2026-07-23T13:29:33.863964"
+    },
+    {
+      "english": "This word, I know!",
+      "swedish": "Det här ordet, jag kan!",
+      "category": "Confidence",
+      "generated_at": "2026-07-23T13:29:33.863976"
+    },
+    {
+      "english": "My Swedish grows, bit by bit.",
+      "swedish": "Min svenska växer, lite grann.",
+      "category": "Confidence",
+      "generated_at": "2026-07-23T13:29:33.863978"
+    },
+    {
+      "english": "I understood that!",
+      "swedish": "Jag förstod det!",
+      "category": "Confidence",
+      "generated_at": "2026-07-23T13:29:33.863979"
+    },
+    {
+      "english": "This sentence, it works!",
+      "swedish": "Denna mening, den duger!",
+      "category": "Confidence",
+      "generated_at": "2026-07-23T13:29:33.863980"
     }
   ],
-  "last_updated": "2026-07-23T04:00:59.790367"
+  "last_updated": "2026-07-23T13:29:33.863982"
 }
