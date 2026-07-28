@@ -15359,7 +15359,37 @@
       "swedish": "Orden söker tyst, sen hittar dig.",
       "category": "Hope",
       "generated_at": "2026-07-27T17:41:53.750413"
+    },
+    {
+      "english": "Rise like sap, steady",
+      "swedish": "Stig som saven, lugnt",
+      "category": "Success",
+      "generated_at": "2026-07-28T20:11:45.479807"
+    },
+    {
+      "english": "Turn failure, sparks into fuel",
+      "swedish": "Vänd misslyckanden, gör eld av",
+      "category": "Success",
+      "generated_at": "2026-07-28T20:11:45.479821"
+    },
+    {
+      "english": "Write wings from stormy ink",
+      "swedish": "Skriv vingar, ur stormbläck",
+      "category": "Success",
+      "generated_at": "2026-07-28T20:11:45.479823"
+    },
+    {
+      "english": "Your doubts drift off like mist",
+      "swedish": "Tvekan skingras, som dimma bort",
+      "category": "Success",
+      "generated_at": "2026-07-28T20:11:45.479824"
+    },
+    {
+      "english": "Practice roots grow under focus",
+      "swedish": "Träna rötter, växer i djupt fokus",
+      "category": "Success",
+      "generated_at": "2026-07-28T20:11:45.479825"
     }
   ],
-  "last_updated": "2026-07-27T17:41:53.750414"
+  "last_updated": "2026-07-28T20:11:45.479827"
 }
