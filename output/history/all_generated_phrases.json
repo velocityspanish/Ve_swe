@@ -15749,7 +15749,37 @@
       "swedish": "Misstag händer, jag växer ändå.",
       "category": "Happiness",
       "generated_at": "2026-07-31T04:15:39.996751"
+    },
+    {
+      "english": "I trust my next step.",
+      "swedish": "Jag litar på mitt nästa steg.",
+      "category": "Confidence",
+      "generated_at": "2026-07-31T15:22:46.935693"
+    },
+    {
+      "english": "Calmly, I choose action.",
+      "swedish": "Lugn tar jag steget.",
+      "category": "Confidence",
+      "generated_at": "2026-07-31T15:22:46.935703"
+    },
+    {
+      "english": "My focus is steady.",
+      "swedish": "Mitt fokus är stadigt.",
+      "category": "Confidence",
+      "generated_at": "2026-07-31T15:22:46.935705"
+    },
+    {
+      "english": "I move forward on purpose.",
+      "swedish": "Jag går vidare med mening.",
+      "category": "Confidence",
+      "generated_at": "2026-07-31T15:22:46.935706"
+    },
+    {
+      "english": "I can handle this moment.",
+      "swedish": "Jag klarar den här stunden.",
+      "category": "Confidence",
+      "generated_at": "2026-07-31T15:22:46.935707"
     }
   ],
-  "last_updated": "2026-07-31T04:15:39.996753"
+  "last_updated": "2026-07-31T15:22:46.935709"
 }
