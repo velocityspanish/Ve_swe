@@ -18539,7 +18539,37 @@
       "swedish": "Du tränar, inte pratar inför publik.",
       "category": "Success",
       "generated_at": "2026-08-19T19:20:05.107639"
+    },
+    {
+      "english": "Wait, breathe, then answer",
+      "swedish": "Vänta, andas, svara sedan",
+      "category": "Patience",
+      "generated_at": "2026-08-19T22:29:09.568116"
+    },
+    {
+      "english": "Confusion is data, not danger",
+      "swedish": "Förvirring är data, inte fara",
+      "category": "Patience",
+      "generated_at": "2026-08-19T22:29:09.568124"
+    },
+    {
+      "english": "Practice late, kindness stays",
+      "swedish": "Träna sent, vänlighet finns kvar",
+      "category": "Patience",
+      "generated_at": "2026-08-19T22:29:09.568126"
+    },
+    {
+      "english": "Let your mouth catch up",
+      "swedish": "Låt munnen komma ikapp",
+      "category": "Patience",
+      "generated_at": "2026-08-19T22:29:09.568127"
+    },
+    {
+      "english": "Repeat softly, stress fades",
+      "swedish": "Upprepa mjukt, stressen släpper",
+      "category": "Patience",
+      "generated_at": "2026-08-19T22:29:09.568128"
     }
   ],
-  "last_updated": "2026-08-19T19:20:05.107641"
+  "last_updated": "2026-08-19T22:29:09.568130"
 }
