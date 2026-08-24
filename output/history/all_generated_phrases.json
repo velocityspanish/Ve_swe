@@ -19289,7 +19289,37 @@
       "swedish": "Fråga, lär, släpp käken",
       "category": "Courage",
       "generated_at": "2026-08-24T19:23:39.080399"
+    },
+    {
+      "english": "Act now, polish later",
+      "swedish": "Agera nu, putsa sen",
+      "category": "Success",
+      "generated_at": "2026-08-24T22:31:33.615479"
+    },
+    {
+      "english": "Say it, then refine it",
+      "swedish": "Säg det, finslipa sen",
+      "category": "Success",
+      "generated_at": "2026-08-24T22:31:33.615489"
+    },
+    {
+      "english": "Begin brave, keep moving",
+      "swedish": "Börja modig, fortsätt",
+      "category": "Success",
+      "generated_at": "2026-08-24T22:31:33.615490"
+    },
+    {
+      "english": "Practice loud, learn fast",
+      "swedish": "Öva högt, lär dig snabbt",
+      "category": "Success",
+      "generated_at": "2026-08-24T22:31:33.615491"
+    },
+    {
+      "english": "Ask why, speak anyway",
+      "swedish": "Fråga varför, säg ändå",
+      "category": "Success",
+      "generated_at": "2026-08-24T22:31:33.615493"
     }
   ],
-  "last_updated": "2026-08-24T19:23:39.080401"
+  "last_updated": "2026-08-24T22:31:33.615494"
 }
