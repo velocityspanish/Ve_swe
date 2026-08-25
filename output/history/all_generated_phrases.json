@@ -19439,7 +19439,37 @@
       "swedish": "Stå kvar, fast tvivel finns",
       "category": "Confidence",
       "generated_at": "2026-08-25T19:25:35.142836"
+    },
+    {
+      "english": "Say it out loud, now",
+      "swedish": "Säg det högt, nu",
+      "category": "Motivation",
+      "generated_at": "2026-08-25T22:32:41.229007"
+    },
+    {
+      "english": "Study five minutes, then move",
+      "swedish": "Plugga fem minuter, sen rör dig",
+      "category": "Motivation",
+      "generated_at": "2026-08-25T22:32:41.229020"
+    },
+    {
+      "english": "Turn mistakes into fuel, today",
+      "swedish": "Vänd misstag till bränsle, idag",
+      "category": "Motivation",
+      "generated_at": "2026-08-25T22:32:41.229021"
+    },
+    {
+      "english": "Ask why, then speak Swedish",
+      "swedish": "Fråga varför, sen prata svenska",
+      "category": "Motivation",
+      "generated_at": "2026-08-25T22:32:41.229023"
+    },
+    {
+      "english": "Switch to Swedish, right now",
+      "swedish": "Byt till svenska, just nu",
+      "category": "Motivation",
+      "generated_at": "2026-08-25T22:32:41.229024"
     }
   ],
-  "last_updated": "2026-08-25T19:25:35.142838"
+  "last_updated": "2026-08-25T22:32:41.229026"
 }
