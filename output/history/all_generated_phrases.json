@@ -21089,7 +21089,37 @@
       "swedish": "Idag talade jag, även mjukt",
       "category": "Confidence",
       "generated_at": "2026-09-05T23:41:41.955234"
+    },
+    {
+      "english": "Breathe, you can handle this.",
+      "swedish": "Andas, du klarar detta.",
+      "category": "Strength",
+      "generated_at": "2026-09-06T05:12:12.815350"
+    },
+    {
+      "english": "Tell the truth, even softly.",
+      "swedish": "Säg sanningen, även mjukt.",
+      "category": "Strength",
+      "generated_at": "2026-09-06T05:12:12.815361"
+    },
+    {
+      "english": "Stand up, shoulders back now.",
+      "swedish": "Res dig, med raka axlar.",
+      "category": "Strength",
+      "generated_at": "2026-09-06T05:12:12.815365"
+    },
+    {
+      "english": "Ask for help, no shame.",
+      "swedish": "Be om hjälp, utan skam.",
+      "category": "Strength",
+      "generated_at": "2026-09-06T05:12:12.815366"
+    },
+    {
+      "english": "Say it again, different way.",
+      "swedish": "Säg det igen, på nytt sätt.",
+      "category": "Strength",
+      "generated_at": "2026-09-06T05:12:12.815367"
     }
   ],
-  "last_updated": "2026-09-05T23:41:41.955236"
+  "last_updated": "2026-09-06T05:12:12.815369"
 }
